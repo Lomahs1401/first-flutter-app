@@ -19,3 +19,9 @@ To run app, run `flutter run`
 ## Result
 
 ![alt text](image.png)
+
+## Demo
+
+
+https://github.com/user-attachments/assets/d1f45249-9ce9-4651-a051-2ef8b73de87b
+
